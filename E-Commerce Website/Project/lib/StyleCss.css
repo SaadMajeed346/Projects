@@ -1,0 +1,128 @@
+.NavBarColor {
+    /*background: #F25C27;*/
+    background: #ffd64f;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.ViewMore {
+    text-align: center;
+    width: 100%;
+    background: #f1f1f1;
+    text-decoration: none;
+}
+
+.ViewMore:hover {
+    background-color: #ffd64f;
+    color: white;
+    text-decoration: none;
+}
+
+.OnlineApply {
+    position: fixed;
+    top: 50%;
+    right: 0;
+}
+
+.Apply {
+    transition: transform .2s;
+}
+
+.Apply:hover {
+    transform: scale(1.5);
+    margin-right: 5%;
+    /* Animation */
+}
+
+.CourseImg {
+    margin-bottom: 15px;
+}
+
+.Banner {
+    background: #027ec4;
+    padding: 20px 0;
+    margin-bottom: 0;
+}
+
+.bodyContent {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.Heading {
+    font-weight: 400;
+    color: #017ec3;
+    font-family: pt sans;
+    text-transform: uppercase;
+}
+
+.listgroup p {
+    border: solid 1px #eaeaea;
+    margin: 0;
+    padding: 2px 2px 2px 10px;
+}
+
+.scheduleCard {
+    border: 0 solid #000;
+    box-shadow: 0 0 4px;
+    padding: 0;
+    margin: 10px -5px;
+}
+
+.sticky {
+    position: sticky;
+    top: 10px;
+}
+
+.Heading-Container {
+    padding: 15px;
+    right: 15px;
+    left: 15px;
+}
+
+.V-line {
+    float: left;
+    font-size: 21px;
+    color: white;
+    border-right: 2px solid white;
+    max-width: 100px;
+    max-height: 39px;
+}
+
+.Line-Alignment {
+    font-size: 18px;
+    margin: 0;
+    line-height: 1;
+    color: black;
+}
+
+.schedule-discription {
+    padding: 0 15px;
+}
+
+ul {
+    list-style: none outside;
+}
+
+.schedule-class-heading {
+    font-size: 15px;
+    text-transform: none;
+    margin: 0 0 5px;
+    line-height: 1.2;
+    color: #0192d4;
+}
+
+.schedule-heading-container {
+    background: rgba(21, 21, 21, .4);
+    position: absolute;
+    bottom: 0;
+    padding: 15px;
+    right: 15px;
+    left: 15px;
+}
