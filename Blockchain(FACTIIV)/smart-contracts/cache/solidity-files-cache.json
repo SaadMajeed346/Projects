@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/bassam/Final Year Project/FYP/smart-contracts/contracts/Factiiv.sol": {
+      "lastModificationDate": 1654886840030,
+      "contentHash": "bd49c0469444d909401d4fc85fa822ad",
+      "sourceName": "contracts/Factiiv.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Factiiv"
+      ]
+    }
+  }
+}

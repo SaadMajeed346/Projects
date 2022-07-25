@@ -1,0 +1,32 @@
+:root {
+  --view: none;
+}
+
+body {
+  background-image: url("../public/loading.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+  background-color: #eeeeee !important;
+}
+
+img {
+  width: 45%;
+}
+
+div {
+  display: var(--view);
+}
+
+.blue {
+  color: #326ece;
+}
+
+.orange {
+  color: #f2a62c;
+}
+
+.black {
+  color: #353535;
+}

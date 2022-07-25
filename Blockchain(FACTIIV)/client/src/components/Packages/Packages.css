@@ -1,0 +1,11 @@
+#gold:hover {
+  border-color: orange;
+}
+
+#platinum:hover {
+  border-color: blue;
+}
+
+#silver:hover {
+  border-color: #5b5b53;
+}
